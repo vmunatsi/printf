@@ -1,8 +1,8 @@
 #include "main.h"
 
 /************************* PRINT UNSIGNED NUMBER *************************/
-/**Author Vincent Munatsi and Nyasha Jerahuni
- *
+/**
+ * Authors : Vincent and Nyasha
  * print_unsigned - Prints an unsigned number
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
